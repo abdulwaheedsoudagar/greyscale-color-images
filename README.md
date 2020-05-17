@@ -1,7 +1,7 @@
 # greyscale-color-images
 Coloring greyscale images with deep learning.
 
-For more details on this, Kindly check the paper - <br><br>
+For more details on this, Kindly check the paper - https://github.com/baldassarreFe/deep-koalarization/blob/master/paper.pdf<br><br>
 
 I tried to implement the same architecture as present in the paper, however, due to GPU and RAM limitation, I was unable to complete it.<br>I removed the fusion of inception network and trained on nearly 5000 images. Which gave average results but not satisfactory.<br>
 <br>
